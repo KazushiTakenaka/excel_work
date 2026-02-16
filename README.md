@@ -11,6 +11,7 @@
 - **02_setup_service_account.md**: Googleスプレッドシートを操作するための設定手順書です。
 - **03_google_sheets_basics.md**: スプレッドシート操作のサンプルコードと解説です。
 - **04_excel_basics.md**: Excel操作のサンプルコードと解説です。
+- **05_ai_collaboration_guide.md**: 事務職のためのAI協働ガイド（プロンプト集・自動化レシピ）です。
 - **setup.bat**: ダブルクリックするだけで環境構築が完了する自動ツールです。
 - **.agent/skills/**: AIエージェントに環境構築を依頼するためのスキルファイルが入っています。
 
