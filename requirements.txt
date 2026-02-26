@@ -2,3 +2,6 @@ gspread
 oauth2client
 pandas
 openpyxl
+pdfplumber
+easyocr
+opencv-python-headless
